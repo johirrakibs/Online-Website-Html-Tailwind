@@ -1,2 +1,2 @@
 # tailwind-tutorial
-Tailwind Playground
+https://johirrakibs.github.io/Online-Website-Html-Tailwind/
