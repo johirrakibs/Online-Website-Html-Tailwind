@@ -1,1 +1,2 @@
-# Online-Website-Html-Tailwind
+# tailwind-tutorial
+Tailwind Playground
